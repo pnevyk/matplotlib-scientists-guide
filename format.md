@@ -73,7 +73,7 @@ LaTeX source:
 
 \begin{document}
   \begin{figure}
-    input{image.pgf}
+    \input{image.pgf}
     \caption{Image}
   \end{figure}
 \end{document}
